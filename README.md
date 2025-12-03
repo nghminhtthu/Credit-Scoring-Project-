@@ -1,7 +1,5 @@
 # Credit-Scoring-Project-
 
-# Credit Scoring Model — Business Context and Techniques
-
 ## Business Context
 This project develops a credit-scoring model to identify companies at risk of bankruptcy using historical financial statement data. The goal is to support lending decisions, underwriting, and portfolio risk monitoring by providing an early indication of financial distress. By modeling structured financial ratios and indicators, the system helps distinguish stable firms from those with elevated default risk, improving decision-making and reducing exposure to failing companies.
 
